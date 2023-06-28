@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <list default="true" id="e9e39a6c-26f3-4287-a12b-a41a53bd99cb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiGateway/ApiGateway.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripinfoMicroservice/TripInfoMicroservice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMicroservice/src/test/java/ca/utoronto/utm/mcs/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserMicroservice/src/test/java/ca/utoronto/utm/mcs/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserMicroservice/usermicroservice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locationmicroservice/locationmicroservice.iml" beforeDir="false" />
+=======
+    <list default="true" id="5e33142e-72ed-4dd2-b417-ecdb89914d46" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripinfoMicroservice/src/main/java/ca/utoronto/utm/mcs/Drivetime.java" beforeDir="false" afterPath="$PROJECT_DIR$/TripinfoMicroservice/src/main/java/ca/utoronto/utm/mcs/Drivetime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripinfoMicroservice/src/main/java/ca/utoronto/utm/mcs/Trip.java" beforeDir="false" afterPath="$PROJECT_DIR$/TripinfoMicroservice/src/main/java/ca/utoronto/utm/mcs/Trip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TripinfoMicroservice/src/test/java/ca/utoronto/utm/mcs/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TripinfoMicroservice/src/test/java/ca/utoronto/utm/mcs/AppTest.java" afterDir="false" />
+>>>>>>> tripinfo-microserviceP2
+=======
+    <list default="true" id="80f2551f-3b24-4610-aa4a-b0baa6001773" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locationmicroservice/src/main/java/ca/utoronto/utm/mcs/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/locationmicroservice/src/main/java/ca/utoronto/utm/mcs/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locationmicroservice/src/test/java/ca/utoronto/utm/mcs/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/locationmicroservice/src/test/java/ca/utoronto/utm/mcs/AppTest.java" afterDir="false" />
+>>>>>>> location-microserviceP2
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="ProjectId" id="2CXQqaz1m2yjpEfANle9v3NnBPK" />
+=======
+  <component name="ProjectId" id="2CUrOUBoe6n4dRBZVublCnNEQOc" />
+>>>>>>> tripinfo-microserviceP2
+=======
+  <component name="ProjectId" id="2CXomUQ3x12S2hToNiinAVsC7Xt" />
+>>>>>>> location-microserviceP2
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+<<<<<<< HEAD
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rubai/c43_project&quot;
+>>>>>>> tripinfo-microserviceP2
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.AppTest.postLogin404">
+    <configuration name="AppTest.postLogin200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="usermicroservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.utoronto.utm.mcs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ca.utoronto.utm.mcs" />
+      <option name="MAIN_CLASS_NAME" value="ca.utoronto.utm.mcs.AppTest" />
+      <option name="METHOD_NAME" value="postLogin200" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.postLogin404" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="usermicroservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.utoronto.utm.mcs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ca.utoronto.utm.mcs" />
+      <option name="MAIN_CLASS_NAME" value="ca.utoronto.utm.mcs.AppTest" />
+      <option name="METHOD_NAME" value="postLogin404" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.postRegister200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="usermicroservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.utoronto.utm.mcs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ca.utoronto.utm.mcs" />
+      <option name="MAIN_CLASS_NAME" value="ca.utoronto.utm.mcs.AppTest" />
+      <option name="METHOD_NAME" value="postRegister200" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.postRegister409" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="usermicroservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.utoronto.utm.mcs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ca.utoronto.utm.mcs" />
+      <option name="MAIN_CLASS_NAME" value="ca.utoronto.utm.mcs.AppTest" />
+      <option name="METHOD_NAME" value="postRegister409" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest.postLogin404" />
+        <item itemvalue="JUnit.AppTest.postRegister200" />
+        <item itemvalue="JUnit.AppTest.postLogin200" />
+        <item itemvalue="JUnit.AppTest.postRegister409" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <changelist id="e9e39a6c-26f3-4287-a12b-a41a53bd99cb" name="Changes" comment="" />
+      <created>1658946645515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658946645515</updated>
+=======
+      <changelist id="5e33142e-72ed-4dd2-b417-ecdb89914d46" name="Changes" comment="" />
+      <created>1658867972756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658867972756</updated>
+>>>>>>> tripinfo-microserviceP2
+=======
+      <changelist id="80f2551f-3b24-4610-aa4a-b0baa6001773" name="Changes" comment="" />
+      <created>1658958455376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658958455376</updated>
+>>>>>>> location-microserviceP2
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
